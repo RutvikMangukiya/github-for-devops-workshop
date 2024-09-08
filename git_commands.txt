@@ -21,7 +21,7 @@
  git status
  git commit -m "Added git_commands.txt"
  git status
- git remote add origin https://github.com/RutvikMangukiya/github-for-devops-workshop.git
+ git remote add origin <repo_link>
  git remote -v
  git status
  git remote set-url origin
