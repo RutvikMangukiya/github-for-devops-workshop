@@ -1,0 +1,14 @@
+ git init
+ ls
+ ls -a
+ dir -a
+ git status
+ ls
+ run
+ git add testing.py
+ git status
+ ls
+ git status
+ git commit -m "Added testing file"
+ git status
+ git restore testing.py
